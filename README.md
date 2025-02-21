@@ -7,7 +7,7 @@
     <title>Gage Henrich | GitHub</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Helvetica, sans-serif;
             background-color: #0d1117;
             color: #e6edf3;
             margin: 0;
@@ -37,9 +37,9 @@
             width: 150px;
             height: 150px;
             border-radius: 50%;
-            margin: 0 auto 15px; /* Center horizontally */
+            margin: 0 auto 15px; 
             border: 3px solid #58a6ff;
-            display: block; /* Ensures it's centered inside its container */
+            display: block; 
         }
         .links {
             margin-top: 15px;
@@ -87,15 +87,15 @@
         <ul>
             <li>
                 <a href="https://github.com/gagehenrich/alacritty-theme-mgr">alacritty-theme-mgr</a>
-                <p>A lightweight CLI tool to manage and switch Alacritty themes.</p>
+                <p>lightweight CLI tool to manage and switch Alacritty themes.</p>
             </li>
             <li>
                 <a href="https://github.com/gagehenrich/nfsync">nfsync</a>
-                <p>(Add a description here)</p>
+                <p>fast, efficient multithreaded file transfer with logging </p>
             </li>
             <li>
                 <a href="https://github.com/gagehenrich/kplite">kplite </a>
-                <p>A terminal-based viewer for KeePass KDBX databases.</p>
+                <p>terminal-based viewer for KeePass KDBX databases.</p>
             </li>
         </ul>
     </div>
