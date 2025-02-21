@@ -1,4 +1,5 @@
 User-agent: *
-Disallow:
+Disallow: /_config.yml
+Disallow: /layouts/
 
 Sitemap: https://gagehenrich.github.io/sitemap.xml
