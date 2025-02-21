@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ site.description }}">
+    <title>{{ site.title }}</title>
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include google-analytics.html %}
+    {% endif %}
+    <style>
+        body {
+            font-family: Helvetica, sans-serif;
+            background-color: #0d1117;
+            color: #e6edf3;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5rem;
+            color: #58a6ff;
+        }
+        p {
+            font-size: 1.2rem;
+            color: #c9d1d9;
+        }
+        a {
+            color: #58a6ff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .profile-pic {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin: 0 auto 15px; 
+            border: 3px solid #58a6ff;
+            display: block; 
+        }
+        .links {
+            margin-top: 15px;
+        }
+        .links a {
+            margin: 0 10px;
+        }
+        .repo-list {
+            margin-top: 30px;
+            text-align: left;
+            max-width: 600px;
+        }
+        .repo-list h2 {
+            font-size: 1.8rem;
+            border-bottom: 2px solid #58a6ff;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+        }
+        .repo-list ul {
+            list-style: none;
+            padding: 0;
+        }
+        .repo-list li {
+            margin-bottom: 15px;
+        }
+        .repo-list a {
+            font-size: 1.2rem;
+        }
+        .repo-list p {
+            font-size: 0.9rem;
+            margin: 5px 0 0;
+        }
+    </style>
+</head>
+<body>
+    {{ content }}
+</body>
+</html>
