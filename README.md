@@ -1,11 +1,11 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Welcome to my GitHub Page! I build cool projects with code.">
-    <meta name="author" content="Gage Henrich">
-    <meta name="robots" content="index, follow">
-    <title>Gage Henrich | GitHub Page</title>
+    <meta name="description" content="gage henrich | let's solve problems with code.">
+    <meta name="google-site-verification" content="83IQgP-IIex7y_d8CSC58n66NGLAgffozI3HI0yyBe4" />
+    <title>Gage Henrich | GitHub</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -33,6 +33,14 @@
         }
         a:hover {
             text-decoration: underline;
+        }
+        .profile-pic {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin: 0 auto 15px; /* Center horizontally */
+            border: 3px solid #58a6ff;
+            display: block; /* Ensures it's centered inside its container */
         }
         .links {
             margin-top: 15px;
@@ -68,11 +76,13 @@
     </style>
 </head>
 <body>
+    <img src="https://avatars.githubusercontent.com/u/16323793?s=400&u=40f35d67f9f3762f54e035622612e333b16f9972&v=4" alt="Gage Henrich" class="profile-pic">
     <h1>Hey, I'm Gage 👋</h1>
     <p>I build things with code. Check out my projects below! 🚀</p>
     <div class="links">
         <a href="https://github.com/gagehenrich">GitHub</a>
-        <a href="https://linkedin.com/in/gagehenrich">LinkedIn</a>
+        <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+        <a href="mailto:your@email.com">Email</a>
     </div>
     <div class="repo-list">
         <h2>Popular Repositories</h2>
