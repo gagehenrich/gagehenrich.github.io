@@ -86,7 +86,7 @@
         <h2>Popular Repositories</h2>
         <ul>
             <li>
-                <a href="https://github.com/gagehenrich/alacritty-theme-mgr">Alacritty Theme Manager</a>
+                <a href="https://github.com/gagehenrich/alacritty-theme-mgr">alacritty-theme-mgr</a>
                 <p>A lightweight CLI tool to manage and switch Alacritty themes.</p>
             </li>
             <li>
@@ -94,7 +94,7 @@
                 <p>(Add a description here)</p>
             </li>
             <li>
-                <a href="https://github.com/gagehenrich/kplite">kplite - KeePass KDBX Database Viewer TUI</a>
+                <a href="https://github.com/gagehenrich/kplite">kplite </a>
                 <p>A terminal-based viewer for KeePass KDBX databases.</p>
             </li>
         </ul>
