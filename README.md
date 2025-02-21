@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -78,11 +77,10 @@
 <body>
     <img src="https://avatars.githubusercontent.com/u/16323793?s=400&u=40f35d67f9f3762f54e035622612e333b16f9972&v=4" alt="Gage Henrich" class="profile-pic">
     <h1>Hey, I'm Gage 👋</h1>
-    <p>I build things with code. Check out my projects below! 🚀</p>
+    <p>Let's solve problems with code. Check out my projects below! 🚀</p>
     <div class="links">
         <a href="https://github.com/gagehenrich">GitHub</a>
         <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
-        <a href="mailto:your@email.com">Email</a>
     </div>
     <div class="repo-list">
         <h2>Popular Repositories</h2>
