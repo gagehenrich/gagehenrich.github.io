@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -73,8 +72,7 @@
     <p>I build things with code. Check out my projects below! 🚀</p>
     <div class="links">
         <a href="https://github.com/gagehenrich">GitHub</a>
-        <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
-        <a href="mailto:your@email.com">Email</a>
+        <a href="https://linkedin.com/in/gagehenrich">LinkedIn</a>
     </div>
     <div class="repo-list">
         <h2>Popular Repositories</h2>
