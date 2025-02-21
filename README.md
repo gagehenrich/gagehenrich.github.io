@@ -3,7 +3,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="gage henrich | let's solve problems with code.">
-    <meta name="google-site-verification" content="83IQgP-IIex7y_d8CSC58n66NGLAgffozI3HI0yyBe4" />
     <title>Gage Henrich | GitHub</title>
     <style>
         body {
